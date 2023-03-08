@@ -1,0 +1,2 @@
+# Wannabe_OSU
+osu
