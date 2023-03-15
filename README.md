@@ -1,2 +1,2 @@
 # Wannabe_OSU
-osu
+(https://justtobi06.github.io/Wannabe_OSU)
